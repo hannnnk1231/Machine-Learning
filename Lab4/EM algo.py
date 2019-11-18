@@ -32,7 +32,7 @@ def idx1_decode(file):
         offset+=struct.calcsize(fmt)
     return labels,label_numbers
 
-def E_step():
+def E_step(X,P,W):
     for n in range(60000):
         temp = lamda.copy()
         for k in range(10):
@@ -52,8 +52,9 @@ def E_step():
                 W[n,k] = temp[k]/0.0001
             else:
                 W[n,k] = temp[k]/np.sum(temp)
+    return W
 
-def M_step():
+def M_step(X,W,P,lamda):
     sigma_w = np.sum(W,axis=0)
     lamda = sigma_w/60000
     for k in range(10):
@@ -63,6 +64,7 @@ def M_step():
                 P[d][k] /= 0.0001
             else:
                 P[d][k] /= sigma_w[k]
+    return P,lamda
 
 def print_imagination():
     for k in range(10):
@@ -165,8 +167,8 @@ W = np.zeros((60000,10)) # init w for every pic for every class
 iteration = 0
 while(1):
     iteration += 1
-    E_step()
-    M_step()
+    W = E_step(X,P,W)
+    P,lamda = M_step(X,W,P,lamda)
     print_imagination()
     diff = np.linalg.norm(P-P_prev)
     print("\nNo. of Iteration: {}, Difference: {}".format(iteration, diff))
