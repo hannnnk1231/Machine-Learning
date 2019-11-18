@@ -79,7 +79,7 @@ def print_imagination():
 
 def print_labeled_imagination(r):
     for i,k in enumerate(r):
-        print('labeled class {}:'.format(i))
+        print('\nlabeled class {}:'.format(i))
         for d in range(784):
             if d%28==0 and d!=0:
                 print('')
@@ -145,9 +145,9 @@ def clustering():
     for k in range(10):
         index = np.unravel_index(np.argmax(table, axis=None), table.shape)
         label_class_relation[index[0]] = index[1]
-        for j in range(0, 10):
-            table[index[0]][j] = 0
-            table[j][index[1]] = 0
+        for j in range(10):
+            table[index[0]][j] = -1
+            table[j][index[1]] = -1
     print_labeled_imagination(label_class_relation)
     return confusion(label_class_relation)
 
@@ -176,7 +176,6 @@ while(1):
     if diff < 0.001:
         break
     P_prev = P
-print("\n----------------------------------------------------")
 print("----------------------------------------------------")
 error = clustering()
 print('Total iteration to coverage: {}'.format(iteration))
