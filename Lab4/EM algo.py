@@ -140,7 +140,6 @@ def clustering():
                     else:
                         temp[k] *= 1-P[d,k]
         table[int(train_label[n]),np.argmax(temp)]+=1
-    print(table)
     for k in range(10):
         index = np.unravel_index(np.argmax(table, axis=None), table.shape)
         label_class_relation[index[0]] = index[1]
