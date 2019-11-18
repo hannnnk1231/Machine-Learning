@@ -76,6 +76,7 @@ def print_imagination():
                 print('1',end='')
             else:
                 print('0',end='')
+	print('')
 
 def print_labeled_imagination(r):
     for i,k in enumerate(r):
@@ -114,7 +115,7 @@ def confusion(r):
             confusion_matrix[int(train_label[n]),1]+=1
             confusion_matrix[temp_index,2]+=1
     for k in range(10):
-        print("\nConfusion Matrix:") 
+        print("\nConfusion Matrix {}:".format(k)) 
         print("                Predict number {} Predict not number {}".format(k,k))
         print("Is number {}           {}                {}".format(k,confusion_matrix[k,0],confusion_matrix[k,1]))
         print("Isn\'t number {}       {}                {}".format(k,confusion_matrix[k,2],60000-np.sum(confusion_matrix[k])))
