@@ -76,7 +76,7 @@ def print_imagination():
                 print('1',end='')
             else:
                 print('0',end='')
-	print('')
+    print('')
 
 def print_labeled_imagination(r):
     for i,k in enumerate(r):
@@ -94,6 +94,7 @@ def print_labeled_imagination(r):
 def confusion(r):
     confusion_matrix = np.zeros((10,3))
     error = 0
+    f1 = 0
     for n in range(60000):
         temp = lamda.copy()
         for k in range(10):
@@ -123,7 +124,8 @@ def confusion(r):
         print("Specificity (Successfully predict not number {}): {:.5f}".format(k,(60000-np.sum(confusion_matrix[k]))/(confusion_matrix[k,2]+60000-np.sum(confusion_matrix[k]))))
         print("\n----------------------------------------------------")
         error+=confusion_matrix[k,1]+confusion_matrix[k,2]
-    return error
+        f1+=(2*confusion_matrix[k,0])/(2*confusion_matrix[k,0]+confusion_matrix[k,1]+confusion_matrix[k,2])
+    return error,f1
 
 def clustering():
     table = np.zeros((10,10))
@@ -166,18 +168,24 @@ P_prev = P.copy()
 W = np.zeros((60000,10)) # init w for every pic for every class 
 
 iteration = 0
+c = 0
 while(1):
     iteration += 1
     W = E_step(X,P,W)
     P,lamda = M_step(X,W,P,lamda)
     print_imagination()
-    diff = np.linalg.norm(P-P_prev)
+    diff = np.sum(abs(P-P_prev))
     print("\nNo. of Iteration: {}, Difference: {}".format(iteration, diff))
     print("\n----------------------------------------------------")
-    if diff < 0.001:
-        break
+    if diff < 10:
+        c+=1
+        if c > 8:
+            break
+    else:
+        c=0
     P_prev = P
 print("----------------------------------------------------")
-error = clustering()
+error,f1 = clustering()
 print('Total iteration to coverage: {}'.format(iteration))
 print('Total error rate: {}'.format(error/600000))
+print('Total f1-score: {}'.format(f1/10))
