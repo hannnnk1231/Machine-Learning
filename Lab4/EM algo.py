@@ -178,9 +178,7 @@ while(1):
     print("\nNo. of Iteration: {}, Difference: {}".format(iteration, diff))
     print("\n----------------------------------------------------")
     if diff < 10:
-        c+=1
-        if c > 8:
-            break
+        break
     else:
         c=0
     P_prev = P
