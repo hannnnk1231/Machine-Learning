@@ -1,0 +1,2464 @@
+Kernel: linear
+Accuracy = 95.08% (2377/2500) (classification)
+Kernel: polynomial
+Accuracy = 34.68% (867/2500) (classification)
+Kernel: RBF
+Accuracy = 95.32% (2383/2500) (classification)
+
+---------------------------------------------------------------------------------------------
+
+Cross Validation Accuracy = 97.16%
+[Linear] -5 97.16 (best: c=0 acc=0)
+Cross Validation Accuracy = 96.72%
+[Polynomial] -5 -5 2 0 96.72 (best: c=0 g=0 d=0 r=0 acc=0)
+Cross Validation Accuracy = 97.06%
+[Polynomial] -5 -5 2 1 97.06 (best: c=0.03125 g=0.03125 d=2 r=0 acc=96.72)
+Cross Validation Accuracy = 97.14%
+[Polynomial] -5 -5 2 2 97.14 (best: c=0.03125 g=0.03125 d=2 r=1 acc=97.06)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -5 -5 3 0 96.61999999999999 (best: c=0.03125 g=0.03125 d=2 r=2 acc=97.14)
+Cross Validation Accuracy = 97.84%
+[Polynomial] -5 -5 3 1 97.84 (best: c=0.03125 g=0.03125 d=2 r=2 acc=97.14)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -5 -5 3 2 97.94 (best: c=0.03125 g=0.03125 d=3 r=1 acc=97.84)
+Cross Validation Accuracy = 95.4%
+[Polynomial] -5 -5 4 0 95.39999999999999 (best: c=0.03125 g=0.03125 d=3 r=2 acc=97.94)
+Cross Validation Accuracy = 97.82%
+[Polynomial] -5 -5 4 1 97.82 (best: c=0.03125 g=0.03125 d=3 r=2 acc=97.94)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -5 -5 4 2 98.11999999999999 (best: c=0.03125 g=0.03125 d=3 r=2 acc=97.94)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -5 -4 2 0 97.6 (best: c=0.03125 g=0.03125 d=4 r=2 acc=98.11999999999999)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -5 -4 2 1 97.66 (best: c=0.03125 g=0.03125 d=4 r=2 acc=98.11999999999999)
+Cross Validation Accuracy = 97.48%
+[Polynomial] -5 -4 2 2 97.48 (best: c=0.03125 g=0.03125 d=4 r=2 acc=98.11999999999999)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -5 -4 3 0 97.76 (best: c=0.03125 g=0.03125 d=4 r=2 acc=98.11999999999999)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -5 -4 3 1 98.18 (best: c=0.03125 g=0.03125 d=4 r=2 acc=98.11999999999999)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -5 -4 3 2 98.08 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 96.74%
+[Polynomial] -5 -4 4 0 96.74000000000001 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.84%
+[Polynomial] -5 -4 4 1 97.84 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98.02%
+[Polynomial] -5 -4 4 2 98.02 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.84%
+[Polynomial] -5 -3 2 0 97.84 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -5 -3 2 1 97.94 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98.02%
+[Polynomial] -5 -3 2 2 98.02 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -5 -3 3 0 97.6 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98%
+[Polynomial] -5 -3 3 1 98.0 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -5 -3 3 2 98.06 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 96.54%
+[Polynomial] -5 -3 4 0 96.54 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.52%
+[Polynomial] -5 -3 4 1 97.52 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -5 -3 4 2 97.88 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -5 -2 2 0 97.98 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98.02%
+[Polynomial] -5 -2 2 1 98.02 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98%
+[Polynomial] -5 -2 2 2 98.0 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -5 -2 3 0 97.74000000000001 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -5 -2 3 1 97.88 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -5 -2 3 2 97.94 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 96.5%
+[Polynomial] -5 -2 4 0 96.5 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.12%
+[Polynomial] -5 -2 4 1 97.11999999999999 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.44%
+[Polynomial] -5 -2 4 2 97.44 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -5 -1 2 0 98.06 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -5 -1 2 1 98.14 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 98.24%
+[Polynomial] -5 -1 2 2 98.24000000000001 (best: c=0.03125 g=0.0625 d=3 r=1 acc=98.18)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -5 -1 3 0 97.72 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -5 -1 3 1 97.66 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.86%
+[Polynomial] -5 -1 3 2 97.86 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -5 -1 4 0 96.52 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.92%
+[Polynomial] -5 -1 4 1 96.92 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.08%
+[Polynomial] -5 -1 4 2 97.08 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -5 0 2 0 98.04 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -5 0 2 1 98.08 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -5 0 2 2 97.96000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -5 0 3 0 97.66 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.78%
+[Polynomial] -5 0 3 1 97.78 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -5 0 3 2 97.64 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.6%
+[Polynomial] -5 0 4 0 96.6 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.92%
+[Polynomial] -5 0 4 1 96.92 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.96%
+[Polynomial] -5 0 4 2 96.96000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -5 1 2 0 98.18 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -5 1 2 1 97.88 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -5 1 2 2 98.04 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -5 1 3 0 97.68 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.78%
+[Polynomial] -5 1 3 1 97.78 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -5 1 3 2 97.74000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.42%
+[Polynomial] -5 1 4 0 96.41999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.9%
+[Polynomial] -5 1 4 1 96.89999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.84%
+[Polynomial] -5 1 4 2 96.84 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -5 2 2 0 97.96000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -5 2 2 1 98.04 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -5 2 2 2 98.1 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.58%
+[Polynomial] -5 2 3 0 97.58 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -5 2 3 1 97.72 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -5 2 3 2 97.66 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.54%
+[Polynomial] -5 2 4 0 96.54 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.6%
+[Polynomial] -5 2 4 1 96.6 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.88%
+[Polynomial] -5 2 4 2 96.88 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -5 3 2 0 98.04 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.22%
+[Polynomial] -5 3 2 1 98.22 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.24%
+[Polynomial] -5 3 2 2 98.24000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -5 3 3 0 97.66 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -5 3 3 1 97.8 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -5 3 3 2 97.74000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.44%
+[Polynomial] -5 3 4 0 96.44 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.78%
+[Polynomial] -5 3 4 1 96.78 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.72%
+[Polynomial] -5 3 4 2 96.72 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -5 4 2 0 98.06 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.2%
+[Polynomial] -5 4 2 1 98.2 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.24%
+[Polynomial] -5 4 2 2 98.24000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -5 4 3 0 97.8 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -5 4 3 1 97.72 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.82%
+[Polynomial] -5 4 3 2 97.82 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -5 4 4 0 96.66 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -5 4 4 1 96.56 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.46%
+[Polynomial] -5 4 4 2 96.46000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -5 5 2 0 98.18 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -5 5 2 1 97.98 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -5 5 2 2 98.1 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -5 5 3 0 97.64 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -5 5 3 1 97.68 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -5 5 3 2 97.6 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.5%
+[Polynomial] -5 5 4 0 96.5 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -5 5 4 1 96.56 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -5 5 4 2 96.56 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.5%
+[RBF] -5 -5 96.5 (best: c=0 g=0 acc=0)
+Cross Validation Accuracy = 97.68%
+[RBF] -5 -4 97.68 (best: c=0.03125 g=0.03125 acc=96.5)
+Cross Validation Accuracy = 97.66%
+[RBF] -5 -3 97.66 (best: c=0.03125 g=0.0625 acc=97.68)
+Cross Validation Accuracy = 97.56%
+[RBF] -5 -2 97.56 (best: c=0.03125 g=0.0625 acc=97.68)
+Cross Validation Accuracy = 97.66%
+[RBF] -5 -1 97.66 (best: c=0.03125 g=0.0625 acc=97.68)
+Cross Validation Accuracy = 97.58%
+[RBF] -5 0 97.58 (best: c=0.03125 g=0.0625 acc=97.68)
+Cross Validation Accuracy = 97.46%
+[RBF] -5 1 97.46000000000001 (best: c=0.03125 g=0.0625 acc=97.68)
+Cross Validation Accuracy = 97.78%
+[RBF] -5 2 97.78 (best: c=0.03125 g=0.0625 acc=97.68)
+Cross Validation Accuracy = 97.46%
+[RBF] -5 3 97.46000000000001 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.76%
+[RBF] -5 4 97.76 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.74%
+[RBF] -5 5 97.74000000000001 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.08%
+[Linear] -4 97.08 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 97.28%
+[Polynomial] -4 -5 2 0 97.28 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.48%
+[Polynomial] -4 -5 2 1 97.48 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.36%
+[Polynomial] -4 -5 2 2 97.36 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.12%
+[Polynomial] -4 -5 3 0 97.11999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -4 -5 3 1 98.11999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -4 -5 3 2 98.08 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.18%
+[Polynomial] -4 -5 4 0 96.17999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -4 -5 4 1 98.08 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -4 -5 4 2 97.96000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.86%
+[Polynomial] -4 -4 2 0 97.86 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.82%
+[Polynomial] -4 -4 2 1 97.82 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -4 -4 2 2 97.74000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -4 -4 3 0 97.88 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.92%
+[Polynomial] -4 -4 3 1 97.92 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -4 -4 3 2 97.96000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.88%
+[Polynomial] -4 -4 4 0 96.88 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.82%
+[Polynomial] -4 -4 4 1 97.82 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98%
+[Polynomial] -4 -4 4 2 98.0 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -4 -3 2 0 98.16 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -4 -3 2 1 98.16 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -4 -3 2 2 98.06 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.58%
+[Polynomial] -4 -3 3 0 97.58 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -4 -3 3 1 97.94 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -4 -3 3 2 98.08 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.58%
+[Polynomial] -4 -3 4 0 96.58 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.46%
+[Polynomial] -4 -3 4 1 97.46000000000001 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -4 -3 4 2 97.98 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -4 -2 2 0 98.06 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98%
+[Polynomial] -4 -2 2 1 98.0 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -4 -2 2 2 98.08 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -4 -2 3 0 97.6 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -4 -2 3 1 97.7 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.82%
+[Polynomial] -4 -2 3 2 97.82 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.54%
+[Polynomial] -4 -2 4 0 96.54 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.22%
+[Polynomial] -4 -2 4 1 97.22 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -4 -2 4 2 97.66 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -4 -1 2 0 98.11999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -4 -1 2 1 98.04 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.9%
+[Polynomial] -4 -1 2 2 97.89999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -4 -1 3 0 97.72 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -4 -1 3 1 97.7 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.86%
+[Polynomial] -4 -1 3 2 97.86 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.6%
+[Polynomial] -4 -1 4 0 96.6 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.98%
+[Polynomial] -4 -1 4 1 96.98 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.1%
+[Polynomial] -4 -1 4 2 97.1 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.92%
+[Polynomial] -4 0 2 0 97.92 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -4 0 2 1 98.11999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98%
+[Polynomial] -4 0 2 2 98.0 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -4 0 3 0 97.61999999999999 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -4 0 3 1 97.68 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -4 0 3 2 97.8 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -4 0 4 0 96.56 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.82%
+[Polynomial] -4 0 4 1 96.82 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 96.86%
+[Polynomial] -4 0 4 2 96.86 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.28%
+[Polynomial] -4 1 2 0 98.28 (best: c=0.03125 g=0.5 d=2 r=2 acc=98.24000000000001)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -4 1 2 1 98.18 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.9%
+[Polynomial] -4 1 2 2 97.89999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -4 1 3 0 97.68 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -4 1 3 1 97.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -4 1 3 2 97.76 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -4 1 4 0 96.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -4 1 4 1 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -4 1 4 2 96.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.86%
+[Polynomial] -4 2 2 0 97.86 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -4 2 2 1 98.08 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -4 2 2 2 98.06 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -4 2 3 0 97.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -4 2 3 1 97.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -4 2 3 2 97.8 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.7%
+[Polynomial] -4 2 4 0 96.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -4 2 4 1 96.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.74%
+[Polynomial] -4 2 4 2 96.74000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -4 3 2 0 97.98 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -4 3 2 1 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.22%
+[Polynomial] -4 3 2 2 98.22 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -4 3 3 0 97.8 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -4 3 3 1 97.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -4 3 3 2 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -4 3 4 0 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.64%
+[Polynomial] -4 3 4 1 96.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.68%
+[Polynomial] -4 3 4 2 96.67999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.2%
+[Polynomial] -4 4 2 0 98.2 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -4 4 2 1 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -4 4 2 2 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.58%
+[Polynomial] -4 4 3 0 97.58 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.56%
+[Polynomial] -4 4 3 1 97.56 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -4 4 3 2 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.5%
+[Polynomial] -4 4 4 0 96.5 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -4 4 4 1 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.28%
+[Polynomial] -4 4 4 2 96.28 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.26%
+[Polynomial] -4 5 2 0 98.26 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -4 5 2 1 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -4 5 2 2 98.18 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -4 5 3 0 97.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -4 5 3 1 97.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -4 5 3 2 97.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.7%
+[Polynomial] -4 5 4 0 96.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.68%
+[Polynomial] -4 5 4 1 96.67999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.7%
+[Polynomial] -4 5 4 2 96.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.24%
+[RBF] -4 -5 97.24000000000001 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.72%
+[RBF] -4 -4 97.72 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.78%
+[RBF] -4 -3 97.78 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.72%
+[RBF] -4 -2 97.72 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.78%
+[RBF] -4 -1 97.78 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.7%
+[RBF] -4 0 97.7 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.66%
+[RBF] -4 1 97.66 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.64%
+[RBF] -4 2 97.64 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.54%
+[RBF] -4 3 97.54 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.48%
+[RBF] -4 4 97.48 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.52%
+[RBF] -4 5 97.52 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 96.86%
+[Linear] -3 96.86 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -3 -5 2 0 97.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -3 -5 2 1 97.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -3 -5 2 2 97.8 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.5%
+[Polynomial] -3 -5 3 0 97.5 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -3 -5 3 1 98.08 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -3 -5 3 2 97.8 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.38%
+[Polynomial] -3 -5 4 0 96.38 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98%
+[Polynomial] -3 -5 4 1 98.0 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -3 -5 4 2 98.08 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -3 -4 2 0 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -3 -4 2 1 97.94 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -3 -4 2 2 97.74000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -3 -4 3 0 97.68 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -3 -4 3 1 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -3 -4 3 2 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.72%
+[Polynomial] -3 -4 4 0 96.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -3 -4 4 1 97.98 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -3 -4 4 2 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -3 -3 2 0 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -3 -3 2 1 98.1 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.2%
+[Polynomial] -3 -3 2 2 98.2 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.44%
+[Polynomial] -3 -3 3 0 97.44 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.02%
+[Polynomial] -3 -3 3 1 98.02 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -3 -3 3 2 97.98 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.34%
+[Polynomial] -3 -3 4 0 96.34 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.48%
+[Polynomial] -3 -3 4 1 97.48 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -3 -3 4 2 97.88 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -3 -2 2 0 97.96000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -3 -2 2 1 98.08 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -3 -2 2 2 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.54%
+[Polynomial] -3 -2 3 0 97.54 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.92%
+[Polynomial] -3 -2 3 1 97.92 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -3 -2 3 2 97.96000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -3 -2 4 0 96.56 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.2%
+[Polynomial] -3 -2 4 1 97.2 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.5%
+[Polynomial] -3 -2 4 2 97.5 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -3 -1 2 0 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98%
+[Polynomial] -3 -1 2 1 98.0 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -3 -1 2 2 98.18 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -3 -1 3 0 97.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -3 -1 3 1 97.76 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.86%
+[Polynomial] -3 -1 3 2 97.86 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.7%
+[Polynomial] -3 -1 4 0 96.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.96%
+[Polynomial] -3 -1 4 1 96.96000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.18%
+[Polynomial] -3 -1 4 2 97.18 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -3 0 2 0 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -3 0 2 1 98.18 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -3 0 2 2 98.06 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -3 0 3 0 97.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -3 0 3 1 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -3 0 3 2 97.96000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.58%
+[Polynomial] -3 0 4 0 96.58 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.84%
+[Polynomial] -3 0 4 1 96.84 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.86%
+[Polynomial] -3 0 4 2 96.86 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.24%
+[Polynomial] -3 1 2 0 98.24000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -3 1 2 1 98.1 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -3 1 2 2 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -3 1 3 0 97.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -3 1 3 1 97.68 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -3 1 3 2 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.42%
+[Polynomial] -3 1 4 0 96.41999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.78%
+[Polynomial] -3 1 4 1 96.78 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.7%
+[Polynomial] -3 1 4 2 96.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -3 2 2 0 97.96000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -3 2 2 1 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -3 2 2 2 98.06 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -3 2 3 0 97.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -3 2 3 1 97.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -3 2 3 2 97.74000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.36%
+[Polynomial] -3 2 4 0 96.36 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.68%
+[Polynomial] -3 2 4 1 96.67999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.64%
+[Polynomial] -3 2 4 2 96.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -3 3 2 0 97.94 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -3 3 2 1 97.88 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98%
+[Polynomial] -3 3 2 2 98.0 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -3 3 3 0 97.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -3 3 3 1 97.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -3 3 3 2 97.74000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -3 3 4 0 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -3 3 4 1 96.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.54%
+[Polynomial] -3 3 4 2 96.54 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -3 4 2 0 97.98 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.26%
+[Polynomial] -3 4 2 1 98.26 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.24%
+[Polynomial] -3 4 2 2 98.24000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -3 4 3 0 97.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.46%
+[Polynomial] -3 4 3 1 97.46000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.78%
+[Polynomial] -3 4 3 2 97.78 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -3 4 4 0 96.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -3 4 4 1 96.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.64%
+[Polynomial] -3 4 4 2 96.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -3 5 2 0 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -3 5 2 1 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -3 5 2 2 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.32%
+[Polynomial] -3 5 3 0 97.32 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -3 5 3 1 97.8 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -3 5 3 2 97.76 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -3 5 4 0 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.8%
+[Polynomial] -3 5 4 1 96.8 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.58%
+[Polynomial] -3 5 4 2 96.58 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.4%
+[RBF] -3 -5 97.39999999999999 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.6%
+[RBF] -3 -4 97.6 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.62%
+[RBF] -3 -3 97.61999999999999 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.7%
+[RBF] -3 -2 97.7 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.76%
+[RBF] -3 -1 97.76 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.72%
+[RBF] -3 0 97.72 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.5%
+[RBF] -3 1 97.5 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.6%
+[RBF] -3 2 97.6 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.46%
+[RBF] -3 3 97.46000000000001 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.5%
+[RBF] -3 4 97.5 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.54%
+[RBF] -3 5 97.54 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 96.6%
+[Linear] -2 96.6 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -2 -5 2 0 97.98 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -2 -5 2 1 97.76 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -2 -5 2 2 97.68 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -2 -5 3 0 97.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -2 -5 3 1 98.08 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -2 -5 3 2 97.88 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.9%
+[Polynomial] -2 -5 4 0 96.89999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -2 -5 4 1 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -2 -5 4 2 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -2 -4 2 0 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -2 -4 2 1 97.98 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.9%
+[Polynomial] -2 -4 2 2 97.89999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -2 -4 3 0 97.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.02%
+[Polynomial] -2 -4 3 1 98.02 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -2 -4 3 2 97.94 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -2 -4 4 0 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -2 -4 4 1 97.76 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.84%
+[Polynomial] -2 -4 4 2 97.84 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.26%
+[Polynomial] -2 -3 2 0 98.26 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -2 -3 2 1 98.06 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.82%
+[Polynomial] -2 -3 2 2 97.82 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -2 -3 3 0 97.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.84%
+[Polynomial] -2 -3 3 1 97.84 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -2 -3 3 2 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -2 -3 4 0 96.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -2 -3 4 1 97.68 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.5%
+[Polynomial] -2 -3 4 2 97.5 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -2 -2 2 0 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -2 -2 2 1 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -2 -2 2 2 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -2 -2 3 0 97.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.82%
+[Polynomial] -2 -2 3 1 97.82 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -2 -2 3 2 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -2 -2 4 0 96.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.12%
+[Polynomial] -2 -2 4 1 97.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.68%
+[Polynomial] -2 -2 4 2 97.68 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -2 -1 2 0 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -2 -1 2 1 98.14 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -2 -1 2 2 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -2 -1 3 0 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -2 -1 3 1 97.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -2 -1 3 2 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -2 -1 4 0 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.82%
+[Polynomial] -2 -1 4 1 96.82 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.2%
+[Polynomial] -2 -1 4 2 97.2 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -2 0 2 0 98.06 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -2 0 2 1 98.08 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -2 0 2 2 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -2 0 3 0 97.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -2 0 3 1 97.74000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -2 0 3 2 97.72 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.38%
+[Polynomial] -2 0 4 0 96.38 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.7%
+[Polynomial] -2 0 4 1 96.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.86%
+[Polynomial] -2 0 4 2 96.86 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -2 1 2 0 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.9%
+[Polynomial] -2 1 2 1 97.89999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.16%
+[Polynomial] -2 1 2 2 98.16 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.78%
+[Polynomial] -2 1 3 0 97.78 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -2 1 3 1 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -2 1 3 2 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.4%
+[Polynomial] -2 1 4 0 96.39999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.58%
+[Polynomial] -2 1 4 1 96.58 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.82%
+[Polynomial] -2 1 4 2 96.82 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.2%
+[Polynomial] -2 2 2 0 98.2 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -2 2 2 1 98.06 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -2 2 2 2 97.96000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -2 2 3 0 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -2 2 3 1 97.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -2 2 3 2 97.74000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.4%
+[Polynomial] -2 2 4 0 96.39999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.76%
+[Polynomial] -2 2 4 1 96.76 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -2 2 4 2 96.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.2%
+[Polynomial] -2 3 2 0 98.2 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.18%
+[Polynomial] -2 3 2 1 98.18 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98%
+[Polynomial] -2 3 2 2 98.0 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -2 3 3 0 97.7 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -2 3 3 1 97.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -2 3 3 2 97.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.4%
+[Polynomial] -2 3 4 0 96.39999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -2 3 4 1 96.56 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.58%
+[Polynomial] -2 3 4 2 96.58 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.92%
+[Polynomial] -2 4 2 0 97.92 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -2 4 2 1 97.94 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -2 4 2 2 97.98 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.34%
+[Polynomial] -2 4 3 0 97.34 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -2 4 3 1 97.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -2 4 3 2 97.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -2 4 4 0 96.56 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.6%
+[Polynomial] -2 4 4 1 96.6 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -2 4 4 2 96.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -2 5 2 0 98.06 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -2 5 2 1 98.11999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98%
+[Polynomial] -2 5 2 2 98.0 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -2 5 3 0 97.61999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -2 5 3 1 97.64 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -2 5 3 2 97.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -2 5 4 0 96.52 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -2 5 4 1 96.66 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 96.48%
+[Polynomial] -2 5 4 2 96.48 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.7%
+[RBF] -2 -5 97.7 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.62%
+[RBF] -2 -4 97.61999999999999 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.46%
+[RBF] -2 -3 97.46000000000001 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.66%
+[RBF] -2 -2 97.66 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.76%
+[RBF] -2 -1 97.76 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.62%
+[RBF] -2 0 97.61999999999999 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.68%
+[RBF] -2 1 97.68 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.68%
+[RBF] -2 2 97.68 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.7%
+[RBF] -2 3 97.7 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.7%
+[RBF] -2 4 97.7 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.64%
+[RBF] -2 5 97.64 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 96.14%
+[Linear] -1 96.14 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -1 -5 2 0 98.04 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -1 -5 2 1 97.96000000000001 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -1 -5 2 2 97.88 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 97.9%
+[Polynomial] -1 -5 3 0 97.89999999999999 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98.34%
+[Polynomial] -1 -5 3 1 98.34 (best: c=0.0625 g=2 d=2 r=0 acc=98.28)
+Cross Validation Accuracy = 98%
+[Polynomial] -1 -5 3 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -1 -5 4 0 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -1 -5 4 1 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -1 -5 4 2 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.28%
+[Polynomial] -1 -4 2 0 98.28 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -1 -4 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] -1 -4 2 2 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.4%
+[Polynomial] -1 -4 3 0 97.39999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.86%
+[Polynomial] -1 -4 3 1 97.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -1 -4 3 2 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] -1 -4 4 0 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -1 -4 4 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] -1 -4 4 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -1 -3 2 0 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -1 -3 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -1 -3 2 2 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.48%
+[Polynomial] -1 -3 3 0 97.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -1 -3 3 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -1 -3 3 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] -1 -3 4 0 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] -1 -3 4 1 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] -1 -3 4 2 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -1 -2 2 0 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -1 -2 2 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] -1 -2 2 2 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.5%
+[Polynomial] -1 -2 3 0 97.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] -1 -2 3 1 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] -1 -2 3 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.44%
+[Polynomial] -1 -2 4 0 96.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.24%
+[Polynomial] -1 -2 4 1 97.24000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] -1 -2 4 2 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -1 -1 2 0 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -1 -1 2 1 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -1 -1 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] -1 -1 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] -1 -1 3 1 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] -1 -1 3 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -1 -1 4 0 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.94%
+[Polynomial] -1 -1 4 1 96.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.14%
+[Polynomial] -1 -1 4 2 97.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] -1 0 2 0 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -1 0 2 1 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -1 0 2 2 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] -1 0 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -1 0 3 1 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -1 0 3 2 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] -1 0 4 0 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.92%
+[Polynomial] -1 0 4 1 96.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.04%
+[Polynomial] -1 0 4 2 97.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] -1 1 2 0 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -1 1 2 1 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.2%
+[Polynomial] -1 1 2 2 98.2 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -1 1 3 0 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] -1 1 3 1 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] -1 1 3 2 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] -1 1 4 0 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] -1 1 4 1 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] -1 1 4 2 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] -1 2 2 0 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -1 2 2 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] -1 2 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] -1 2 3 0 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] -1 2 3 1 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] -1 2 3 2 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.44%
+[Polynomial] -1 2 4 0 96.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.4%
+[Polynomial] -1 2 4 1 96.39999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.64%
+[Polynomial] -1 2 4 2 96.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] -1 3 2 0 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -1 3 2 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] -1 3 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.48%
+[Polynomial] -1 3 3 0 97.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] -1 3 3 1 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -1 3 3 2 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.86%
+[Polynomial] -1 3 4 0 96.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.64%
+[Polynomial] -1 3 4 1 96.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -1 3 4 2 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] -1 4 2 0 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -1 4 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] -1 4 2 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.48%
+[Polynomial] -1 4 3 0 97.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] -1 4 3 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] -1 4 3 2 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] -1 4 4 0 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.52%
+[Polynomial] -1 4 4 1 96.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.78%
+[Polynomial] -1 4 4 2 96.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] -1 5 2 0 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] -1 5 2 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] -1 5 2 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] -1 5 3 0 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.48%
+[Polynomial] -1 5 3 1 97.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] -1 5 3 2 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -1 5 4 0 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] -1 5 4 1 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] -1 5 4 2 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[RBF] -1 -5 97.88 (best: c=0.03125 g=4 acc=97.78)
+Cross Validation Accuracy = 97.52%
+[RBF] -1 -4 97.52 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.52%
+[RBF] -1 -3 97.52 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] -1 -2 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.6%
+[RBF] -1 -1 97.6 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.5%
+[RBF] -1 0 97.5 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.48%
+[RBF] -1 1 97.48 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] -1 2 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.62%
+[RBF] -1 3 97.61999999999999 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] -1 4 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] -1 5 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 96.64%
+[Linear] 0 96.64 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 98.1%
+[Polynomial] 0 -5 2 0 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 0 -5 2 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 0 -5 2 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 0 -5 3 0 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.18%
+[Polynomial] 0 -5 3 1 98.18 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 0 -5 3 2 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.92%
+[Polynomial] 0 -5 4 0 96.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.18%
+[Polynomial] 0 -5 4 1 98.18 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 0 -5 4 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 0 -4 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 0 -4 2 1 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 0 -4 2 2 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 0 -4 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 0 -4 3 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 0 -4 3 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] 0 -4 4 0 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 0 -4 4 1 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 0 -4 4 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 0 -3 2 0 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 0 -3 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 0 -3 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 0 -3 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 0 -3 3 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 0 -3 3 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] 0 -3 4 0 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.44%
+[Polynomial] 0 -3 4 1 97.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 0 -3 4 2 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 0 -2 2 0 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 0 -2 2 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 0 -2 2 2 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 0 -2 3 0 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 0 -2 3 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.82%
+[Polynomial] 0 -2 3 2 97.82 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] 0 -2 4 0 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.26%
+[Polynomial] 0 -2 4 1 97.26 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.5%
+[Polynomial] 0 -2 4 2 97.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 0 -1 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 0 -1 2 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 0 -1 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 0 -1 3 0 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.86%
+[Polynomial] 0 -1 3 1 97.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 0 -1 3 2 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.44%
+[Polynomial] 0 -1 4 0 96.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.86%
+[Polynomial] 0 -1 4 1 96.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.22%
+[Polynomial] 0 -1 4 2 97.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 0 0 2 0 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 0 0 2 1 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 0 0 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 0 0 3 0 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 0 0 3 1 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] 0 0 3 2 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 0 0 4 0 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.86%
+[Polynomial] 0 0 4 1 96.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97%
+[Polynomial] 0 0 4 2 97.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 0 1 2 0 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 0 1 2 1 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 0 1 2 2 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 0 1 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 0 1 3 1 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 0 1 3 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.64%
+[Polynomial] 0 1 4 0 96.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.76%
+[Polynomial] 0 1 4 1 96.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] 0 1 4 2 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 0 2 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 0 2 2 1 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 0 2 2 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] 0 2 3 0 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 0 2 3 1 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] 0 2 3 2 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 0 2 4 0 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.7%
+[Polynomial] 0 2 4 1 96.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 0 2 4 2 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 0 3 2 0 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 0 3 2 1 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 0 3 2 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 0 3 3 0 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] 0 3 3 1 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 0 3 3 2 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 0 3 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 0 3 4 1 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] 0 3 4 2 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 0 4 2 0 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 0 4 2 1 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.2%
+[Polynomial] 0 4 2 2 98.2 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 0 4 3 0 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 0 4 3 1 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 0 4 3 2 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 0 4 4 0 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 0 4 4 1 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 0 4 4 2 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 0 5 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 0 5 2 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 0 5 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.5%
+[Polynomial] 0 5 3 0 97.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 0 5 3 1 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] 0 5 3 2 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.48%
+[Polynomial] 0 5 4 0 96.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 0 5 4 1 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.7%
+[Polynomial] 0 5 4 2 96.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[RBF] 0 -5 97.61999999999999 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 0 -4 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.64%
+[RBF] 0 -3 97.64 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.64%
+[RBF] 0 -2 97.64 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.56%
+[RBF] 0 -1 97.56 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.46%
+[RBF] 0 0 97.46000000000001 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.6%
+[RBF] 0 1 97.6 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 0 2 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 0 3 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.74%
+[RBF] 0 4 97.74000000000001 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] 0 5 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 96.42%
+[Linear] 1 96.41999999999999 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 98.1%
+[Polynomial] 1 -5 2 0 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 1 -5 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.84%
+[Polynomial] 1 -5 2 2 97.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 1 -5 3 0 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 1 -5 3 1 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 1 -5 3 2 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.58%
+[Polynomial] 1 -5 4 0 96.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 1 -5 4 1 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 1 -5 4 2 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 1 -4 2 0 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 1 -4 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 1 -4 2 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 1 -4 3 0 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 1 -4 3 1 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.2%
+[Polynomial] 1 -4 3 2 98.2 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 1 -4 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 1 -4 4 1 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 1 -4 4 2 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 1 -3 2 0 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.28%
+[Polynomial] 1 -3 2 1 98.28 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 1 -3 2 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 1 -3 3 0 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 1 -3 3 1 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 1 -3 3 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.64%
+[Polynomial] 1 -3 4 0 96.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.42%
+[Polynomial] 1 -3 4 1 97.42 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 1 -3 4 2 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 1 -2 2 0 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 1 -2 2 1 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] 1 -2 2 2 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 1 -2 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] 1 -2 3 1 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 1 -2 3 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.44%
+[Polynomial] 1 -2 4 0 96.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.28%
+[Polynomial] 1 -2 4 1 97.28 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.46%
+[Polynomial] 1 -2 4 2 97.46000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 1 -1 2 0 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 1 -1 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 1 -1 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 1 -1 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] 1 -1 3 1 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.86%
+[Polynomial] 1 -1 3 2 97.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.52%
+[Polynomial] 1 -1 4 0 96.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.84%
+[Polynomial] 1 -1 4 1 96.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.08%
+[Polynomial] 1 -1 4 2 97.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] 1 0 2 0 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 1 0 2 1 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] 1 0 2 2 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 1 0 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 1 0 3 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 1 0 3 2 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] 1 0 4 0 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.84%
+[Polynomial] 1 0 4 1 96.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.02%
+[Polynomial] 1 0 4 2 97.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.28%
+[Polynomial] 1 1 2 0 98.28 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] 1 1 2 1 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 1 1 2 2 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.34%
+[Polynomial] 1 1 3 0 97.34 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 1 1 3 1 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 1 1 3 2 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 1 1 4 0 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] 1 1 4 1 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.84%
+[Polynomial] 1 1 4 2 96.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 1 2 2 0 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 1 2 2 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 1 2 2 2 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 1 2 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 1 2 3 1 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 1 2 3 2 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.7%
+[Polynomial] 1 2 4 0 96.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 1 2 4 1 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.74%
+[Polynomial] 1 2 4 2 96.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.24%
+[Polynomial] 1 3 2 0 98.24000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] 1 3 2 1 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.2%
+[Polynomial] 1 3 2 2 98.2 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 1 3 3 0 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 1 3 3 1 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 1 3 3 2 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 1 3 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.48%
+[Polynomial] 1 3 4 1 96.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.76%
+[Polynomial] 1 3 4 2 96.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 1 4 2 0 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.2%
+[Polynomial] 1 4 2 1 98.2 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 1 4 2 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] 1 4 3 0 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] 1 4 3 1 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 1 4 3 2 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] 1 4 4 0 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 1 4 4 1 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.58%
+[Polynomial] 1 4 4 2 96.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 1 5 2 0 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 1 5 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 1 5 2 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] 1 5 3 0 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 1 5 3 1 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] 1 5 3 2 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.64%
+[Polynomial] 1 5 4 0 96.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] 1 5 4 1 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 1 5 4 2 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.44%
+[RBF] 1 -5 97.44 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.72%
+[RBF] 1 -4 97.72 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.58%
+[RBF] 1 -3 97.58 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.52%
+[RBF] 1 -2 97.52 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.72%
+[RBF] 1 -1 97.72 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.48%
+[RBF] 1 0 97.48 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.52%
+[RBF] 1 1 97.52 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.48%
+[RBF] 1 2 97.48 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.64%
+[RBF] 1 3 97.64 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.56%
+[RBF] 1 4 97.56 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.58%
+[RBF] 1 5 97.58 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 96.18%
+[Linear] 2 96.17999999999999 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 2 -5 2 0 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 2 -5 2 1 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 2 -5 2 2 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 2 -5 3 0 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] 2 -5 3 1 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 2 -5 3 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 2 -5 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 2 -5 4 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 2 -5 4 2 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 2 -4 2 0 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 2 -4 2 1 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 2 -4 2 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 2 -4 3 0 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 2 -4 3 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 2 -4 3 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 2 -4 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 2 -4 4 1 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 2 -4 4 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 2 -3 2 0 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 2 -3 2 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 2 -3 2 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 2 -3 3 0 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.2%
+[Polynomial] 2 -3 3 1 98.2 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 2 -3 3 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 2 -3 4 0 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] 2 -3 4 1 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 2 -3 4 2 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 2 -2 2 0 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 2 -2 2 1 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 2 -2 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 2 -2 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 2 -2 3 1 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 2 -2 3 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] 2 -2 4 0 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.14%
+[Polynomial] 2 -2 4 1 97.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.32%
+[Polynomial] 2 -2 4 2 97.32 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 2 -1 2 0 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 2 -1 2 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 2 -1 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 2 -1 3 0 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 2 -1 3 1 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.82%
+[Polynomial] 2 -1 3 2 97.82 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.8%
+[Polynomial] 2 -1 4 0 96.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.94%
+[Polynomial] 2 -1 4 1 96.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.16%
+[Polynomial] 2 -1 4 2 97.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 2 0 2 0 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 2 0 2 1 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 2 0 2 2 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 2 0 3 0 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 2 0 3 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 2 0 3 2 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 2 0 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97%
+[Polynomial] 2 0 4 1 97.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.04%
+[Polynomial] 2 0 4 2 97.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 2 1 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 2 1 2 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 2 1 2 2 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 2 1 3 0 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 2 1 3 1 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 2 1 3 2 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 2 1 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.76%
+[Polynomial] 2 1 4 1 96.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 2 1 4 2 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 2 2 2 0 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 2 2 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 2 2 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 2 2 3 0 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 2 2 3 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] 2 2 3 2 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 2 2 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 2 2 4 1 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 2 2 4 2 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 2 3 2 0 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 2 3 2 1 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 2 3 2 2 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 2 3 3 0 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] 2 3 3 1 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] 2 3 3 2 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 2 3 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 2 3 4 1 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 2 3 4 2 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 2 4 2 0 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 2 4 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 2 4 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 2 4 3 0 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 2 4 3 1 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] 2 4 3 2 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.52%
+[Polynomial] 2 4 4 0 96.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.7%
+[Polynomial] 2 4 4 1 96.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.74%
+[Polynomial] 2 4 4 2 96.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 2 5 2 0 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 2 5 2 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 2 5 2 2 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] 2 5 3 0 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 2 5 3 1 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 2 5 3 2 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] 2 5 4 0 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.48%
+[Polynomial] 2 5 4 1 96.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 2 5 4 2 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[RBF] 2 -5 97.58 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.64%
+[RBF] 2 -4 97.64 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.48%
+[RBF] 2 -3 97.48 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.62%
+[RBF] 2 -2 97.61999999999999 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.44%
+[RBF] 2 -1 97.44 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.6%
+[RBF] 2 0 97.6 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.56%
+[RBF] 2 1 97.56 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] 2 2 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] 2 3 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.6%
+[RBF] 2 4 97.6 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.7%
+[RBF] 2 5 97.7 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 96.2%
+[Linear] 3 96.2 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 3 -5 2 0 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 3 -5 2 1 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 3 -5 2 2 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 3 -5 3 0 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.28%
+[Polynomial] 3 -5 3 1 98.28 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 3 -5 3 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 3 -5 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 3 -5 4 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 3 -5 4 2 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 3 -4 2 0 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 3 -4 2 1 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 3 -4 2 2 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 3 -4 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 3 -4 3 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.82%
+[Polynomial] 3 -4 3 2 97.82 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 3 -4 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] 3 -4 4 1 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 3 -4 4 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 3 -3 2 0 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 3 -3 2 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 3 -3 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 3 -3 3 0 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 3 -3 3 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 3 -3 3 2 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] 3 -3 4 0 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 3 -3 4 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.82%
+[Polynomial] 3 -3 4 2 97.82 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 3 -2 2 0 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 3 -2 2 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 3 -2 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 3 -2 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 3 -2 3 1 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 3 -2 3 2 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] 3 -2 4 0 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.3%
+[Polynomial] 3 -2 4 1 97.3 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 3 -2 4 2 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 3 -1 2 0 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 3 -1 2 1 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.26%
+[Polynomial] 3 -1 2 2 98.26 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 3 -1 3 0 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] 3 -1 3 1 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 3 -1 3 2 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 3 -1 4 0 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.88%
+[Polynomial] 3 -1 4 1 96.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.16%
+[Polynomial] 3 -1 4 2 97.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 3 0 2 0 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 3 0 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 3 0 2 2 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 3 0 3 0 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.46%
+[Polynomial] 3 0 3 1 97.46000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 3 0 3 2 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 3 0 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.98%
+[Polynomial] 3 0 4 1 96.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.98%
+[Polynomial] 3 0 4 2 96.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.2%
+[Polynomial] 3 1 2 0 98.2 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 3 1 2 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 3 1 2 2 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.52%
+[Polynomial] 3 1 3 0 97.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 3 1 3 1 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 3 1 3 2 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.46%
+[Polynomial] 3 1 4 0 96.46000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.52%
+[Polynomial] 3 1 4 1 96.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.78%
+[Polynomial] 3 1 4 2 96.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.18%
+[Polynomial] 3 2 2 0 98.18 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 3 2 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 3 2 2 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.48%
+[Polynomial] 3 2 3 0 97.48 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.42%
+[Polynomial] 3 2 3 1 97.42 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 3 2 3 2 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] 3 2 4 0 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 3 2 4 1 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.86%
+[Polynomial] 3 2 4 2 96.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 3 3 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 3 3 2 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 3 3 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 3 3 3 0 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.44%
+[Polynomial] 3 3 3 1 97.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] 3 3 3 2 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 3 3 4 0 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 3 3 4 1 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 3 3 4 2 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 3 4 2 0 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 3 4 2 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 3 4 2 2 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 3 4 3 0 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 3 4 3 1 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 3 4 3 2 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 3 4 4 0 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 3 4 4 1 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.52%
+[Polynomial] 3 4 4 2 96.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 3 5 2 0 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 3 5 2 1 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 3 5 2 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 3 5 3 0 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] 3 5 3 1 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 3 5 3 2 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 3 5 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 3 5 4 1 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 3 5 4 2 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[RBF] 3 -5 97.66 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.48%
+[RBF] 3 -4 97.48 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.44%
+[RBF] 3 -3 97.44 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 3 -2 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.64%
+[RBF] 3 -1 97.64 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.5%
+[RBF] 3 0 97.5 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.64%
+[RBF] 3 1 97.64 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.7%
+[RBF] 3 2 97.7 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 3 3 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.82%
+[RBF] 3 4 97.82 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.58%
+[RBF] 3 5 97.58 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 96.14%
+[Linear] 4 96.14 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 4 -5 2 0 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 4 -5 2 1 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 4 -5 2 2 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.4%
+[Polynomial] 4 -5 3 0 97.39999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 4 -5 3 1 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 4 -5 3 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 4 -5 4 0 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 4 -5 4 1 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 4 -5 4 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 4 -4 2 0 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 4 -4 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 4 -4 2 2 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 4 -4 3 0 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.18%
+[Polynomial] 4 -4 3 1 98.18 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.24%
+[Polynomial] 4 -4 3 2 98.24000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] 4 -4 4 0 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 4 -4 4 1 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 4 -4 4 2 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 4 -3 2 0 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 4 -3 2 1 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 4 -3 2 2 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 4 -3 3 0 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 4 -3 3 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 4 -3 3 2 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.42%
+[Polynomial] 4 -3 4 0 96.41999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.5%
+[Polynomial] 4 -3 4 1 97.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.84%
+[Polynomial] 4 -3 4 2 97.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 4 -2 2 0 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] 4 -2 2 1 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 4 -2 2 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 4 -2 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 4 -2 3 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 4 -2 3 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.28%
+[Polynomial] 4 -2 4 0 96.28 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.42%
+[Polynomial] 4 -2 4 1 97.42 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 4 -2 4 2 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 4 -1 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 4 -1 2 1 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 4 -1 2 2 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 4 -1 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.84%
+[Polynomial] 4 -1 3 1 97.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.86%
+[Polynomial] 4 -1 3 2 97.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 4 -1 4 0 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.98%
+[Polynomial] 4 -1 4 1 96.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.14%
+[Polynomial] 4 -1 4 2 97.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 4 0 2 0 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 4 0 2 1 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 4 0 2 2 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] 4 0 3 0 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.84%
+[Polynomial] 4 0 3 1 97.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.86%
+[Polynomial] 4 0 3 2 97.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.44%
+[Polynomial] 4 0 4 0 96.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 4 0 4 1 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.74%
+[Polynomial] 4 0 4 2 96.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 4 1 2 0 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 4 1 2 1 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.18%
+[Polynomial] 4 1 2 2 98.18 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.76%
+[Polynomial] 4 1 3 0 97.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 4 1 3 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.86%
+[Polynomial] 4 1 3 2 97.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.58%
+[Polynomial] 4 1 4 0 96.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.76%
+[Polynomial] 4 1 4 1 96.76 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.7%
+[Polynomial] 4 1 4 2 96.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 4 2 2 0 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 4 2 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 4 2 2 2 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.54%
+[Polynomial] 4 2 3 0 97.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] 4 2 3 1 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.86%
+[Polynomial] 4 2 3 2 97.86 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 4 2 4 0 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.44%
+[Polynomial] 4 2 4 1 96.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.58%
+[Polynomial] 4 2 4 2 96.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] 4 3 2 0 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.18%
+[Polynomial] 4 3 2 1 98.18 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 4 3 2 2 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 4 3 3 0 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 4 3 3 1 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 4 3 3 2 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 4 3 4 0 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 4 3 4 1 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.58%
+[Polynomial] 4 3 4 2 96.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 4 4 2 0 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 4 4 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 4 4 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 4 4 3 0 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.5%
+[Polynomial] 4 4 3 1 97.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 4 4 3 2 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.52%
+[Polynomial] 4 4 4 0 96.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 4 4 4 1 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.46%
+[Polynomial] 4 4 4 2 96.46000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 4 5 2 0 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 4 5 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] 4 5 2 2 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 4 5 3 0 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 4 5 3 1 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.6%
+[Polynomial] 4 5 3 2 97.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 4 5 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 4 5 4 1 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 4 5 4 2 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.42%
+[RBF] 4 -5 97.42 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.7%
+[RBF] 4 -4 97.7 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.74%
+[RBF] 4 -3 97.74000000000001 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.7%
+[RBF] 4 -2 97.7 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 4 -1 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.76%
+[RBF] 4 0 97.76 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 4 1 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.7%
+[RBF] 4 2 97.7 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.58%
+[RBF] 4 3 97.58 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.6%
+[RBF] 4 4 97.6 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.62%
+[RBF] 4 5 97.61999999999999 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 96.44%
+[Linear] 5 96.44 (best: c=0.03125 acc=97.16)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 5 -5 2 0 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.96%
+[Polynomial] 5 -5 2 1 97.96000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.9%
+[Polynomial] 5 -5 2 2 97.89999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 5 -5 3 0 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 5 -5 3 1 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 5 -5 3 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.42%
+[Polynomial] 5 -5 4 0 96.41999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 5 -5 4 1 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 5 -5 4 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 5 -4 2 0 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.88%
+[Polynomial] 5 -4 2 1 97.88 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 5 -4 2 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[Polynomial] 5 -4 3 0 97.58 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 5 -4 3 1 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.24%
+[Polynomial] 5 -4 3 2 98.24000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.74%
+[Polynomial] 5 -4 4 0 96.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.84%
+[Polynomial] 5 -4 4 1 97.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 5 -4 4 2 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 5 -3 2 0 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 5 -3 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 5 -3 2 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 5 -3 3 0 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.92%
+[Polynomial] 5 -3 3 1 97.92 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 5 -3 3 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.4%
+[Polynomial] 5 -3 4 0 96.39999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.44%
+[Polynomial] 5 -3 4 1 97.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.84%
+[Polynomial] 5 -3 4 2 97.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.24%
+[Polynomial] 5 -2 2 0 98.24000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 5 -2 2 1 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 5 -2 2 2 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 5 -2 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.82%
+[Polynomial] 5 -2 3 1 97.82 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.94%
+[Polynomial] 5 -2 3 2 97.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 5 -2 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.04%
+[Polynomial] 5 -2 4 1 97.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.44%
+[Polynomial] 5 -2 4 2 97.44 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.14%
+[Polynomial] 5 -1 2 0 98.14 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 5 -1 2 1 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.12%
+[Polynomial] 5 -1 2 2 98.11999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 5 -1 3 0 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 5 -1 3 1 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.8%
+[Polynomial] 5 -1 3 2 97.8 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.74%
+[Polynomial] 5 -1 4 0 96.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.94%
+[Polynomial] 5 -1 4 1 96.94 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.04%
+[Polynomial] 5 -1 4 2 97.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 5 0 2 0 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 5 0 2 1 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 5 0 2 2 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.5%
+[Polynomial] 5 0 3 0 97.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 5 0 3 1 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 5 0 3 2 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.6%
+[Polynomial] 5 0 4 0 96.6 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.72%
+[Polynomial] 5 0 4 1 96.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.1%
+[Polynomial] 5 0 4 2 97.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 5 1 2 0 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.82%
+[Polynomial] 5 1 2 1 97.82 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 5 1 2 2 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.74%
+[Polynomial] 5 1 3 0 97.74000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.52%
+[Polynomial] 5 1 3 1 97.52 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.7%
+[Polynomial] 5 1 3 2 97.7 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 5 1 4 0 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.82%
+[Polynomial] 5 1 4 1 96.82 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.84%
+[Polynomial] 5 1 4 2 96.84 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.18%
+[Polynomial] 5 2 2 0 98.18 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.1%
+[Polynomial] 5 2 2 1 98.1 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 5 2 2 2 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.56%
+[Polynomial] 5 2 3 0 97.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 5 2 3 1 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 5 2 3 2 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] 5 2 4 0 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.5%
+[Polynomial] 5 2 4 1 96.5 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 5 2 4 2 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.22%
+[Polynomial] 5 3 2 0 98.22 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.04%
+[Polynomial] 5 3 2 1 98.04 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 5 3 2 2 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.64%
+[Polynomial] 5 3 3 0 97.64 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 5 3 3 1 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 5 3 3 2 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 5 3 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.62%
+[Polynomial] 5 3 4 1 96.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.46%
+[Polynomial] 5 3 4 2 96.46000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.06%
+[Polynomial] 5 4 2 0 98.06 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98%
+[Polynomial] 5 4 2 1 98.0 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.08%
+[Polynomial] 5 4 2 2 98.08 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.62%
+[Polynomial] 5 4 3 0 97.61999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.72%
+[Polynomial] 5 4 3 1 97.72 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.66%
+[Polynomial] 5 4 3 2 97.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 5 4 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 5 4 4 1 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.54%
+[Polynomial] 5 4 4 2 96.54 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.16%
+[Polynomial] 5 5 2 0 98.16 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.98%
+[Polynomial] 5 5 2 1 97.98 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 98.02%
+[Polynomial] 5 5 2 2 98.02 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.46%
+[Polynomial] 5 5 3 0 97.46000000000001 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.78%
+[Polynomial] 5 5 3 1 97.78 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.68%
+[Polynomial] 5 5 3 2 97.68 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.56%
+[Polynomial] 5 5 4 0 96.56 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.68%
+[Polynomial] 5 5 4 1 96.67999999999999 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 96.66%
+[Polynomial] 5 5 4 2 96.66 (best: c=0.5 g=0.03125 d=3 r=1 acc=98.34)
+Cross Validation Accuracy = 97.58%
+[RBF] 5 -5 97.58 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.52%
+[RBF] 5 -4 97.52 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.58%
+[RBF] 5 -3 97.58 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.68%
+[RBF] 5 -2 97.68 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.66%
+[RBF] 5 -1 97.66 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.74%
+[RBF] 5 0 97.74000000000001 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.76%
+[RBF] 5 1 97.76 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.54%
+[RBF] 5 2 97.54 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.56%
+[RBF] 5 3 97.56 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.5%
+[RBF] 5 4 97.5 (best: c=0.5 g=0.03125 acc=97.88)
+Cross Validation Accuracy = 97.6%
+[RBF] 5 5 97.6 (best: c=0.5 g=0.03125 acc=97.88)
+
+Best parameters of linear, polynomial, RBF kernel respectively: 
+[0.03125, (0.5, 0.03125, 3, 1), (0.5, 0.03125)]
+Best accuracy of linear, polynomial, RBF kernel respectively: 
+[97.16, 98.34, 97.88]
+
+Accuracy = 96% (2400/2500) (classification)
+Accuracy = 97.92% (2448/2500) (classification)
+Accuracy = 98.04% (2451/2500) (classification)
+
+------------------------------------------------------------------------------------------
+
+Accuracy = 95.08% (2377/2500) (classification)
