@@ -1,0 +1,94 @@
+k=2
+Init method: random
+iteration: 1, diff: 5216
+iteration: 2, diff: 2784
+iteration: 3, diff: 922
+iteration: 4, diff: 474
+iteration: 5, diff: 323
+iteration: 6, diff: 238
+iteration: 7, diff: 193
+iteration: 8, diff: 178
+iteration: 9, diff: 163
+iteration: 10, diff: 135
+iteration: 11, diff: 110
+iteration: 12, diff: 63
+iteration: 13, diff: 32
+iteration: 14, diff: 29
+Init method: kmeans++
+iteration: 1, diff: 1013
+iteration: 2, diff: 168
+iteration: 3, diff: 35
+iteration: 4, diff: 17
+k=3
+Init method: random
+iteration: 1, diff: 6714
+iteration: 2, diff: 4055
+iteration: 3, diff: 2359
+iteration: 4, diff: 1056
+iteration: 5, diff: 546
+iteration: 6, diff: 322
+iteration: 7, diff: 239
+iteration: 8, diff: 255
+iteration: 9, diff: 230
+iteration: 10, diff: 163
+iteration: 11, diff: 130
+iteration: 12, diff: 121
+iteration: 13, diff: 51
+iteration: 14, diff: 39
+iteration: 15, diff: 46
+iteration: 16, diff: 45
+iteration: 17, diff: 48
+iteration: 18, diff: 46
+iteration: 19, diff: 54
+iteration: 20, diff: 64
+iteration: 21, diff: 64
+iteration: 22, diff: 76
+Init method: kmeans++
+iteration: 1, diff: 271
+iteration: 2, diff: 399
+iteration: 3, diff: 608
+iteration: 4, diff: 699
+iteration: 5, diff: 488
+iteration: 6, diff: 366
+iteration: 7, diff: 268
+iteration: 8, diff: 211
+iteration: 9, diff: 192
+iteration: 10, diff: 181
+iteration: 11, diff: 182
+iteration: 12, diff: 165
+iteration: 13, diff: 147
+iteration: 14, diff: 152
+iteration: 15, diff: 183
+iteration: 16, diff: 173
+iteration: 17, diff: 182
+k=4
+Init method: random
+iteration: 1, diff: 7571
+iteration: 2, diff: 4523
+iteration: 3, diff: 2468
+iteration: 4, diff: 1427
+iteration: 5, diff: 814
+iteration: 6, diff: 542
+iteration: 7, diff: 444
+iteration: 8, diff: 326
+iteration: 9, diff: 262
+iteration: 10, diff: 218
+iteration: 11, diff: 172
+iteration: 12, diff: 129
+iteration: 13, diff: 90
+iteration: 14, diff: 53
+iteration: 15, diff: 33
+Init method: kmeans++
+iteration: 1, diff: 840
+iteration: 2, diff: 528
+iteration: 3, diff: 467
+iteration: 4, diff: 398
+iteration: 5, diff: 319
+iteration: 6, diff: 224
+iteration: 7, diff: 170
+iteration: 8, diff: 131
+iteration: 9, diff: 96
+iteration: 10, diff: 67
+iteration: 11, diff: 58
+iteration: 12, diff: 51
+iteration: 13, diff: 40
